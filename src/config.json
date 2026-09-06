@@ -1,10 +1,11 @@
 {
   "features": {
     "cdnAssets": false,
-    "sessionRestore": true
+    "sessionRestore": true,
+    "taxPreview": false
   },
   "region": "us-west-2",
   "service": "billing",
   "timeoutMs": 900,
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
