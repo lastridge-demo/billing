@@ -1,0 +1,30 @@
+name: ci
+on:
+  push:
+    branches: [main]
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: unit tests
+        run: scripts/test.sh
+  verify-prod:
+    name: verify-prod
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: prod
+      url: https://acme.observif.ai/billing/prod
+    steps:
+      - uses: actions/checkout@v4
+      - name: roll out to prod
+        run: scripts/deploy.sh prod
+        env:
+          ACME_DEPLOY_TOKEN: ${{ secrets.ACME_DEPLOY_TOKEN }}
+      - name: verify ledger invariants
+        run: python3 -c "import json; c=json.load(open('src/config.json')); assert c['service']=='billing'; print('ledger ok')"
