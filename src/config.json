@@ -1,6 +1,6 @@
 {
   "features": {
-    "auditLog": true,
+    "auditLog": false,
     "batchIngest": false,
     "cdnAssets": false,
     "darkMode": true,
@@ -8,8 +8,8 @@
     "taxPreview": true
   },
   "region": "us-west-2",
-  "replicas": 2,
+  "replicas": 3,
   "service": "billing",
   "timeoutMs": 700,
-  "version": "1.0.10"
+  "version": "1.0.11"
 }
