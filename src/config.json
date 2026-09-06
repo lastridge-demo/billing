@@ -5,11 +5,11 @@
     "cdnAssets": false,
     "darkMode": true,
     "sessionRestore": true,
-    "taxPreview": true
+    "taxPreview": false
   },
   "region": "us-west-2",
   "replicas": 3,
   "service": "billing",
-  "timeoutMs": 700,
-  "version": "1.0.12"
+  "timeoutMs": 1100,
+  "version": "1.0.13"
 }
