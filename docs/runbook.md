@@ -9,3 +9,7 @@ Check the deploy board before paging anyone; most alerts here resolve on the nex
 ## invoice day rationale
 
 Drift on this lane means main has commits prod has not seen; ship a release to clear it (updated 2026-09-06).
+
+## invoice day rationale
+
+Drift on this lane means main has commits prod has not seen; ship a release to clear it (updated 2026-09-06).
