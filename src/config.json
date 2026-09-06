@@ -1,6 +1,9 @@
 {
-  "service": "billing",
-  "version": "1.0.0",
+  "features": {
+    "cdnAssets": false
+  },
   "region": "us-west-2",
-  "features": {}
+  "service": "billing",
+  "timeoutMs": 900,
+  "version": "1.0.1"
 }
