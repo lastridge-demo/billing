@@ -3,10 +3,10 @@
     "batchIngest": true,
     "cdnAssets": false,
     "sessionRestore": true,
-    "taxPreview": false
+    "taxPreview": true
   },
   "region": "us-west-2",
   "service": "billing",
   "timeoutMs": 400,
-  "version": "1.0.5"
+  "version": "1.0.6"
 }
