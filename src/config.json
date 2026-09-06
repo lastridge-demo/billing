@@ -3,13 +3,13 @@
     "auditLog": true,
     "batchIngest": false,
     "cdnAssets": false,
-    "darkMode": true,
+    "darkMode": false,
     "sessionRestore": true,
     "taxPreview": false
   },
   "region": "us-west-2",
-  "replicas": 3,
+  "replicas": 4,
   "service": "billing",
   "timeoutMs": 1100,
-  "version": "1.0.13"
+  "version": "1.0.14"
 }
