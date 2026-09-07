@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: prod
-      url: https://acme.observif.ai/billing/prod
+      url: https://acme.shipglance.com/billing/prod
     steps:
       - uses: actions/checkout@v4
       - name: roll out to prod
