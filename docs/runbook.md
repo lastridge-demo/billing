@@ -149,3 +149,7 @@ Drift on this lane means main has commits prod has not seen; ship a release to c
 ## invoice day rationale
 
 Drift on this lane means main has commits prod has not seen; ship a release to clear it (updated 2026-09-13).
+
+## invoice day rationale
+
+Drift on this lane means main has commits prod has not seen; ship a release to clear it (updated 2026-09-13).
