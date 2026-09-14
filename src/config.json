@@ -7,11 +7,11 @@
     "darkMode": true,
     "rateLimitV2": false,
     "sessionRestore": false,
-    "taxPreview": true
+    "taxPreview": false
   },
   "region": "us-west-2",
   "replicas": 4,
   "service": "billing",
   "timeoutMs": 1200,
-  "version": "1.0.132"
+  "version": "1.0.133"
 }
