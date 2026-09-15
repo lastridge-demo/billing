@@ -161,3 +161,4 @@
 - 1.0.159: fix(ledger): round at the invoice line, not the total
 - 1.0.160: chore: tighten net terms validation
 - 1.0.161: fix(ledger): round at the invoice line, not the total
+- 1.0.162: fix(ledger): round at the invoice line, not the total
