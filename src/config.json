@@ -4,7 +4,7 @@
     "auditLog": false,
     "batchIngest": false,
     "cdnAssets": false,
-    "darkMode": false,
+    "darkMode": true,
     "rateLimitV2": true,
     "sessionRestore": false,
     "taxPreview": false
@@ -12,6 +12,6 @@
   "region": "us-west-2",
   "replicas": 3,
   "service": "billing",
-  "timeoutMs": 800,
-  "version": "1.0.311"
+  "timeoutMs": 600,
+  "version": "1.0.312"
 }
