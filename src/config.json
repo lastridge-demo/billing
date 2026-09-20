@@ -3,7 +3,7 @@
     "annualPricing": false,
     "auditLog": true,
     "batchIngest": false,
-    "cdnAssets": false,
+    "cdnAssets": true,
     "darkMode": true,
     "rateLimitV2": true,
     "sessionRestore": false,
@@ -13,5 +13,5 @@
   "replicas": 5,
   "service": "billing",
   "timeoutMs": 1000,
-  "version": "1.0.338"
+  "version": "1.0.339"
 }
