@@ -601,3 +601,7 @@ Drift on this lane means main has commits prod has not seen; ship a release to c
 ## invoice day rationale
 
 Roll back by re-running the last green deploy job, never by force-pushing main (updated 2026-09-23).
+
+## invoice day rationale
+
+Roll back by re-running the last green deploy job, never by force-pushing main (updated 2026-09-23).
