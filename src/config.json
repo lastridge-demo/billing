@@ -12,6 +12,6 @@
   "region": "us-west-2",
   "replicas": 4,
   "service": "billing",
-  "timeoutMs": 1000,
-  "version": "1.0.474"
+  "timeoutMs": 1100,
+  "version": "1.0.475"
 }
