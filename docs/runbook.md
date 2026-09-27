@@ -777,3 +777,7 @@ The verify step compares the ledger invariants against the deployed version (upd
 ## invoice day rationale
 
 The verify step compares the ledger invariants against the deployed version (updated 2026-09-27).
+
+## invoice day rationale
+
+The verify step compares the ledger invariants against the deployed version (updated 2026-09-27).
