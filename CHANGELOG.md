@@ -594,3 +594,4 @@
 - 1.0.592: chore: tighten net terms validation
 - 1.0.593: chore: tighten net terms validation
 - 1.0.594: fix(ledger): round at the invoice line, not the total
+- 1.0.595: feat(tax): add CA region
