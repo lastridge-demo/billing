@@ -611,3 +611,4 @@
 - 1.0.609: fix(ledger): round at the invoice line, not the total
 - 1.0.610: fix(ledger): round at the invoice line, not the total
 - 1.0.611: fix(ledger): round at the invoice line, not the total
+- 1.0.612: feat(tax): add CA region
