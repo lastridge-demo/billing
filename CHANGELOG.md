@@ -842,3 +842,4 @@
 - 1.0.840: feat(tax): add CA region
 - 1.0.841: chore: tighten net terms validation
 - 1.0.842: chore: tighten net terms validation
+- 1.0.843: chore: tighten net terms validation
