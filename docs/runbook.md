@@ -1125,3 +1125,7 @@ The verify step compares the ledger invariants against the deployed version (upd
 ## invoice day rationale
 
 Drift on this lane means main has commits prod has not seen; ship a release to clear it (updated 2026-10-04).
+
+## invoice day rationale
+
+The verify step compares the ledger invariants against the deployed version (updated 2026-10-05).
