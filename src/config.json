@@ -13,5 +13,5 @@
   "replicas": 3,
   "service": "billing",
   "timeoutMs": 800,
-  "version": "1.0.868"
+  "version": "1.0.869"
 }
