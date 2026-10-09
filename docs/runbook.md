@@ -1349,3 +1349,7 @@ Check the deploy board before paging anyone; most alerts here resolve on the nex
 ## invoice day rationale
 
 The verify step compares the ledger invariants against the deployed version (updated 2026-10-09).
+
+## invoice day rationale
+
+The verify step compares the ledger invariants against the deployed version (updated 2026-10-09).
