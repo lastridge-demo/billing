@@ -1869,3 +1869,7 @@ Check the deploy board before paging anyone; most alerts here resolve on the nex
 ## invoice day rationale
 
 Check the deploy board before paging anyone; most alerts here resolve on the next deploy (updated 2026-10-21).
+
+## invoice day rationale
+
+Check the deploy board before paging anyone; most alerts here resolve on the next deploy (updated 2026-10-21).
