@@ -1901,3 +1901,7 @@ The verify step compares the ledger invariants against the deployed version (upd
 ## invoice day rationale
 
 Roll back by re-running the last green deploy job, never by force-pushing main (updated 2026-10-22).
+
+## invoice day rationale
+
+The verify step compares the ledger invariants against the deployed version (updated 2026-10-22).
