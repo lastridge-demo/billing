@@ -1,6 +1,6 @@
 {
   "features": {
-    "annualPricing": false,
+    "annualPricing": true,
     "auditLog": false,
     "batchIngest": true,
     "cdnAssets": true,
@@ -13,5 +13,5 @@
   "replicas": 5,
   "service": "billing",
   "timeoutMs": 300,
-  "version": "1.0.1483"
+  "version": "1.0.1484"
 }
