@@ -1977,3 +1977,7 @@ Roll back by re-running the last green deploy job, never by force-pushing main (
 ## invoice day rationale
 
 Check the deploy board before paging anyone; most alerts here resolve on the next deploy (updated 2026-10-23).
+
+## invoice day rationale
+
+Check the deploy board before paging anyone; most alerts here resolve on the next deploy (updated 2026-10-24).
