@@ -2,7 +2,7 @@
   "features": {
     "annualPricing": true,
     "auditLog": true,
-    "batchIngest": true,
+    "batchIngest": false,
     "cdnAssets": false,
     "darkMode": true,
     "rateLimitV2": true,
@@ -12,6 +12,6 @@
   "region": "us-west-2",
   "replicas": 6,
   "service": "billing",
-  "timeoutMs": 300,
-  "version": "1.0.1617"
+  "timeoutMs": 400,
+  "version": "1.0.1618"
 }
