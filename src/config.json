@@ -1,6 +1,6 @@
 {
   "features": {
-    "annualPricing": false,
+    "annualPricing": true,
     "auditLog": true,
     "batchIngest": false,
     "cdnAssets": false,
@@ -12,6 +12,6 @@
   "region": "us-west-2",
   "replicas": 4,
   "service": "billing",
-  "timeoutMs": 800,
-  "version": "1.0.2284"
+  "timeoutMs": 500,
+  "version": "1.0.2285"
 }
